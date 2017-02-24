@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NSCCCapstone/spoonacular.git"
+    "url": "git+https://github.com/NSCCCapstone/spoonacular.git"
   },
   "author": "",
   "license": "ISC",
@@ -16,7 +16,10 @@
     "url": "https://github.com/NSCCCapstone/spoonacular/issues"
   },
   "dependencies": {
+    "body-parser": "^1.16.1",
     "ejs": "^2.5.6",
     "express": "^4.14.1"
-  }
+  },
+  "homepage": "https://github.com/NSCCCapstone/spoonacular#readme",
+  "devDependencies": {}
 }
