@@ -16,6 +16,7 @@
     "url": "https://github.com/NSCCCapstone/spoonacular/issues"
   },
   "dependencies": {
+    "ejs": "^2.5.6",
     "express": "^4.14.1"
   }
 }
