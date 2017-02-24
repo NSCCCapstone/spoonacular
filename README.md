@@ -1,2 +1,0 @@
-# spoonacular
-Spoonacular API environment
